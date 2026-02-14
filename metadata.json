@@ -1,0 +1,7 @@
+{
+  "name": "MetalForge Quality QC",
+  "description": "An industrial-grade visual inspection tool that uses Gemini AI to verify if forged metal cuboids meet standard geometric and surface quality criteria.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
